@@ -1,5 +1,23 @@
 # codeforces
 The folder for me to keep codes for **codeforces** practices.
+## Round 489 (Div.2)
+### A. Nastya and an Array
+2018-06-19 11:55:17  
+`implementation` `math`   
+the number of the unique numbers (don't count 0) is the answer. 
+
+
+## Round 488 (Div.2)
+### A. Fingerprints
+2018-06-19 09:32:46(UTC)  
+`implementation`  
+flag every fingerprints in a bool array and check in the sequence one by one.
+
+### B. Knights of a Polygonal Table
+2018-06-19 11:12:40(UTC)  
+`greddy` `implementation` `sortings`  
+keywords: multiset || vector, sorting with struct, long long int.
+
 
 ## Round 487 (Div.2)
 
