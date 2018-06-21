@@ -6,6 +6,11 @@ The folder for me to keep codes for **codeforces** practices.
 `implementation` `math`   
 the number of the unique numbers (don't count 0) is the answer. 
 
+### B. Nastya Studies Informatics
+2018-06-20 05:27:34  
+`math` `number theory`  
+keywords: GCD LCM
+
 
 ## Round 488 (Div.2)
 ### A. Fingerprints
@@ -41,4 +46,29 @@ Result complexity is O(nlogn).
 Simply implement, following the topic.
 
 ### B. Substrings Sort
+not finished yet
 
+## Round 485 (Div.2)
+### A. Infinity Gauntlet
+2018-06-20 06:05:07  
+`implementation`  
+utilization of `string`, can find easier way to do it.
+
+### B. High School: Become Human
+2018-06-20 10:17:55  
+`math` 
+I first want to use fast pow, but it has some very big integers, then I find out there are two ways to do it.  
+1. logs  
+2. case analysis  
+
+## Avito Code Challange 2018
+### A. Antipalindrome
+2018-06-20 12:02:36  
+`brute force` `implementation` `strings`  
+divide it into different cases to make it faster, from O(n^3) to O(n)
+
+### B. Businessmen Problems
+2018-06-20 12:47:55  
+`sortings`  
+keyword: Map `map<int, int> mp;`  
+if you find a bigger value, just use it to replace the previous value of the key.
